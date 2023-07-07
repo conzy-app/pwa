@@ -31886,7 +31886,7 @@ return s==null?null:s.content},
 Eb(a){var s
 if(A.qQ(a,0,null).gYs())return A.BN(B.kW,a,B.ac,!1)
 s=this.ga8O()
-return A.BN(B.kW,(s==null?"":s)+"assets/"+a,B.ac,!1)},
+return A.BN(B.kW,(s==null?"":s)+"pwa/assets/"+a,B.ac,!1)},
 fz(a,b){return this.auo(0,b)},
 auo(a,b){var s=0,r=A.u(t.V4),q,p=2,o,n=this,m,l,k,j,i,h,g,f,e,d,c
 var $async$fz=A.p(function(a0,a1){if(a0===1){o=a1
@@ -53476,7 +53476,7 @@ j=k.gba()
 k=k.a
 k===$&&A.b()
 k=4*(j/k.a)
-n.push(new A.a9(new A.E(k,0,k,0),A.ayS("assets/icons/private.svg",B.r,!1,f,!1,B.w,f,B.e8,!1,B.eZ,f,f,!1,f,f,f,f,f),f))}n=A.aG(n,B.l,B.i,B.f)
+n.push(new A.a9(new A.E(k,0,k,0),A.ayS("pwa/assets/icons/private.svg",B.r,!1,f,!1,B.w,f,B.e8,!1,B.eZ,f,f,!1,f,f,f,f,f),f))}n=A.aG(n,B.l,B.i,B.f)
 k=a.e
 if(k==null)k=""
 k=A.bQ(A.ao(A.a([o,n,A.H(k,f,f,B.ad,f,A.aU(m).p3.w.r9(B.M,-1,3),f,f)],l),B.C,B.aY,B.f),1)
@@ -53950,7 +53950,7 @@ n=A.bl(20*$.c().gj())
 m=t.p
 m=new A.a9(new A.E(16,r.f.b,16,q.e.d),A.e3(A.kO(A.ao(A.a([A.ao(A.a([B.aQ,A.aG(A.a([s,A.bb(A.aJ(k,A.N(B.r,B.ds.cC(B.D,8*$.c().gj(),8*$.c().gj()),B.e,k,k,new A.aq(B.Y,k,k,n,k,k,B.u),k,20*o,k,k,k,k,k,20*p),B.p,!1,k,k,k,k,k,k,k,k,k,k,k,new A.aH_(),k,k,k,k,k,k),k,k)],m),B.l,B.bq,B.f),B.cI,l.xN(),B.Br],m),B.l,B.i,B.f),l.KT(),B.Bs],m),B.l,B.i,B.f),l.e),k,k,k),k)
 s=m}return A.cd(k,B.k,s,k,k,j,B.ee,!1)},
-xN(){var s,r=null,q=A.ES("assets/images/avatar-post.png",r,r,20,20),p=this.d
+xN(){var s,r=null,q=A.ES("pwa/assets/images/avatar-post.png",r,r,20,20),p=this.d
 p===$&&A.b()
 p=p.ay
 p=p.gm(p).f
@@ -53970,7 +53970,7 @@ o=$.c().gj()
 n=A.bl(20*$.c().gj())
 return A.X(A.bG(B.eX,A.a([l,A.ft(!1,!0,A.N(B.r,A.N(B.r,B.ds.cC(B.k,8*$.c().gj(),8*$.c().gj()),B.e,m,m,new A.aq(B.A,m,m,n,m,m,B.u),m,19*o,m,m,m,m,m,19*p),B.e,m,m,new A.aq(B.k,m,m,q,m,m,B.u),m,20*r,m,m,m,m,m,20*s),m,!0,m,m,m,m,m,m,m,m,m,new A.aH2(this,a),m,m,m,m,m,m,m)],t.p),B.w,B.J),58,55)},
 EL(){var s=null,r=t.p
-return new A.a9(B.rm,A.ao(A.a([A.ft(!1,!0,A.aG(A.a([A.ayS("assets/icons/attach_circle.svg",B.r,!1,s,!1,B.w,s,B.e8,!1,B.eZ,s,s,!1,s,s,s,s,s)],r),B.l,B.i,B.f),s,!0,s,s,s,s,s,s,s,s,s,this.ga8s(),s,s,s,s,s,s,s),B.Bq,new A.l3(new A.aH4(this),s)],r),B.l,B.ey,B.f),s)}}
+return new A.a9(B.rm,A.ao(A.a([A.ft(!1,!0,A.aG(A.a([A.ayS("pwa/assets/icons/attach_circle.svg",B.r,!1,s,!1,B.w,s,B.e8,!1,B.eZ,s,s,!1,s,s,s,s,s)],r),B.l,B.i,B.f),s,!0,s,s,s,s,s,s,s,s,s,this.ga8s(),s,s,s,s,s,s,s),B.Bq,new A.l3(new A.aH4(this),s)],r),B.l,B.ey,B.f),s)}}
 A.aGX.prototype={
 $0(){return this.a.f=!0},
 $S:0}
@@ -54147,7 +54147,7 @@ r=A.aG(A.a([e,s,A.H(r,g,g,g,g,A.F(g,g,B.v,g,g,g,g,g,g,g,g,14*$.c().gj(),g,g,B.q,
 s=A.X(g,16*$.c().gj(),g)
 e=h.d
 e=A.H(J.cx(e.gme(e)),g,g,g,g,A.F(g,g,B.au,g,g,g,g,g,g,g,g,12*$.c().gj(),g,g,B.o,g,g,!0,g,g,g,g,g,g,g,g),B.x,B.B)
-p=A.ES("assets/images/promoted-as-contributor-banner.png",g,B.bL,g,g)
+p=A.ES("pwa/assets/images/promoted-as-contributor-banner.png",g,B.bL,g,g)
 o=A.X(g,g,2*$.c().gj())
 n=16*$.c().gj()
 m=16*$.c().gj()
@@ -58132,7 +58132,7 @@ r=$.c().gj()
 q=A.bl(20*$.c().gj())
 p=t.p
 return A.cd(n,B.k,new A.a9(new A.E(16,k.f.b,16,j.e.d),A.e3(A.kO(A.ao(A.a([A.ao(A.a([B.aQ,A.aG(A.a([l,A.bb(A.aJ(n,A.N(B.r,B.ds.cC(B.D,8*$.c().gj(),8*$.c().gj()),B.e,n,n,new A.aq(B.Y,n,n,q,n,n,B.u),n,20*r,n,n,n,n,n,20*s),B.p,!1,n,n,n,n,n,n,n,n,n,n,n,new A.aRa(),n,n,n,n,n,n),n,n)],p),B.l,B.bq,B.f),B.cI,o.xN(),B.Br],p),B.l,B.i,B.f),o.KT(),B.Bs],p),B.l,B.i,B.f),o.e),n,n,n),n),n,n,m,B.ee,!1)},
-xN(){var s=null,r=A.ES("assets/images/avatar-post.png",s,s,20,20),q=A.F(s,s,B.v,s,s,s,s,s,s,s,s,12,s,s,B.o,s,1.5,!0,s,s,s,s,s,s,s,s)
+xN(){var s=null,r=A.ES("pwa/assets/images/avatar-post.png",s,s,20,20),q=A.F(s,s,B.v,s,s,s,s,s,s,s,s,12,s,s,B.o,s,1.5,!0,s,s,s,s,s,s,s,s)
 return A.aG(A.a([r,B.cp,A.bQ(A.c9(!0,s,!1,s,s,B.y,2,A.dA(s,B.bc,s,B.Q,s,s,s,s,!0,B.bc,s,s,s,s,B.k,!0,s,s,s,s,B.bc,s,s,s,s,s,A.F(s,s,B.b2,s,s,s,s,s,s,s,s,12,s,s,B.o,s,s,!0,s,s,s,s,s,s,s,s),"Start Typing...",s,s,s,s,!1,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s),s,!0,!1,s,s,s,s,s,s,s,!1,new A.aRg(this),s,s,!1,B.K,!0,q,B.eP,s,B.T,B.B,s,new A.aRh()),1)],t.p),B.C,B.i,B.f)},
 KT(){return new A.a9(B.ro,new A.l3(new A.aRc(this),null),null)},
 KU(a){var s,r,q,p,o,n,m=null,l=this.d
@@ -58147,7 +58147,7 @@ o=$.c().gj()
 n=A.bl(20*$.c().gj())
 return A.X(A.bG(B.eX,A.a([l,A.ft(!1,!0,A.N(B.r,A.N(B.r,B.ds.cC(B.k,8*$.c().gj(),8*$.c().gj()),B.e,m,m,new A.aq(B.A,m,m,n,m,m,B.u),m,19*o,m,m,m,m,m,19*p),B.e,m,m,new A.aq(B.k,m,m,q,m,m,B.u),m,20*r,m,m,m,m,m,20*s),m,!0,m,m,m,m,m,m,m,m,m,new A.aRd(this,a),m,m,m,m,m,m,m)],t.p),B.w,B.J),58,55)},
 EL(){var s=null,r=t.p
-return new A.a9(B.rm,A.ao(A.a([A.ft(!1,!0,A.aG(A.a([A.ayS("assets/icons/attach_circle.svg",B.r,!1,s,!1,B.w,s,B.e8,!1,B.eZ,s,s,!1,s,s,s,s,s)],r),B.l,B.i,B.f),s,!0,s,s,s,s,s,s,s,s,s,this.gakQ(),s,s,s,s,s,s,s),B.Bq,new A.l3(new A.aRf(this),s)],r),B.l,B.ey,B.f),s)}}
+return new A.a9(B.rm,A.ao(A.a([A.ft(!1,!0,A.aG(A.a([A.ayS("pwa/assets/icons/attach_circle.svg",B.r,!1,s,!1,B.w,s,B.e8,!1,B.eZ,s,s,!1,s,s,s,s,s)],r),B.l,B.i,B.f),s,!0,s,s,s,s,s,s,s,s,s,this.gakQ(),s,s,s,s,s,s,s),B.Bq,new A.l3(new A.aRf(this),s)],r),B.l,B.ey,B.f),s)}}
 A.aR8.prototype={
 $2(a,b){var s=a/b,r=this.a
 r.A(new A.aR7(r,s))},
@@ -58729,7 +58729,7 @@ this.a7y()},
 bg(a){var s=A.bF(0,3000,0)
 A.jV(s,new A.aRG(this),t.a)},
 E(a){var s=null,r=t.p
-return A.cd(s,s,A.bG(B.r,A.a([A.ES("assets/images/splash-bg.png",B.Y,B.DQ,s,1/0),A.ao(A.a([B.BM.OQ(90),A.H("Conzy",s,s,s,s,A.F(s,s,B.v,s,s,s,s,s,s,s,s,36,s,s,B.V,s,s,!0,s,s,s,s,s,s,s,s),s,s)],r),B.l,B.i,B.br)],r),B.w,B.J),s,s,s,s,s)}}
+return A.cd(s,s,A.bG(B.r,A.a([A.ES("pwa/assets/images/splash-bg.png",B.Y,B.DQ,s,1/0),A.ao(A.a([B.BM.OQ(90),A.H("Conzy",s,s,s,s,A.F(s,s,B.v,s,s,s,s,s,s,s,s,36,s,s,B.V,s,s,!0,s,s,s,s,s,s,s,s),s,s)],r),B.l,B.i,B.br)],r),B.w,B.J),s,s,s,s,s)}}
 A.aRG.prototype={
 $0(){A.bfN($.I(),new A.aRF(this.a),t.z)},
 $S:4}
@@ -60233,7 +60233,7 @@ E(a){var s=null,r=A.bQ(this.xN(),1),q=$.c().gj(),p=this.d?B.D:A.aD(102,19,40,153
 return A.N(s,A.ao(A.a([r,A.aJ(s,new A.a9(B.JN,new A.cq(B.hk,s,s,A.H("Reply",s,s,s,s,A.F(s,s,p,s,s,s,s,s,s,s,s,14*q,s,s,B.q,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),s),B.p,!1,s,s,s,s,s,s,s,s,s,s,s,new A.aC3(this),s,s,s,s,s,s)],t.p),B.l,B.i,B.f),B.e,B.k,s,s,s,154,s,s,s,s,s,s)},
 xN(){var s,r,q,p=null
 this.a.toString
-s=A.ES("assets/images/avatar-post.png",p,p,20,20)
+s=A.ES("pwa/assets/images/avatar-post.png",p,p,20,20)
 r=A.ef(!0,p,!0,!0,p,p,!1)
 q=A.F(p,p,B.v,p,p,p,p,p,p,p,p,12,p,p,B.o,p,1.5,!0,p,p,p,p,p,p,p,p)
 return new A.a9(B.JS,A.aG(A.a([s,B.cp,A.bQ(A.c9(!0,p,!0,p,p,B.y,2,A.dA(p,B.bc,p,B.Q,p,p,p,p,!0,B.bc,p,p,p,p,B.k,!0,p,p,p,p,B.bc,p,p,p,p,p,A.F(p,p,B.b2,p,p,p,p,p,p,p,p,12,p,p,B.o,p,p,!0,p,p,p,p,p,p,p,p),"Share a Reply...",p,p,p,p,!1,!0,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p),p,!0,!1,r,p,p,p,p,p,p,!1,new A.aC5(this),p,p,!1,B.K,!0,q,B.eP,p,B.T,B.B,p,new A.aC6()),1)],t.p),B.C,B.i,B.f),p)}}
@@ -111710,8 +111710,8 @@ B.D3=new A.rG(1,"inactive")
 B.D4=new A.rG(2,"paused")
 B.D5=new A.rG(3,"detached")
 B.pF=new A.wE(1,"assertive")
-B.D7=new A.P9("assets/images/intro-puzzle.png")
-B.D8=new A.P9("assets/images/intro-business-deal.png")
+B.D7=new A.P9("pwa/assets/images/intro-puzzle.png")
+B.D8=new A.P9("pwa/assets/images/intro-business-deal.png")
 B.di=A.a(s([]),t.s)
 B.t=new A.A0(1,"downstream")
 B.ct=new A.h7(-1,-1,B.t,!1,-1,-1)
@@ -114507,56 +114507,56 @@ B.Uw=new A.dj(6)
 B.Ux=new A.dj(7)
 B.Uy=new A.dj(8)
 B.Uz=new A.dj(9)
-B.UA=new A.bH("assets/icons/delete.svg")
-B.BJ=new A.bH("assets/icons/like.svg")
-B.UB=new A.bH("assets/icons/tick.svg")
-B.UC=new A.bH("assets/images/commentEmpty.svg")
-B.UD=new A.bH("assets/icons/removeUser.svg")
-B.bv=new A.bH("assets/icons/Search.svg")
-B.UE=new A.bH("assets/icons/facebook.svg")
-B.BK=new A.bH("assets/icons/Close.svg")
-B.UF=new A.bH("assets/icons/userAddCircle.svg")
-B.UG=new A.bH("assets/icons/arrowUp.svg")
-B.UH=new A.bH("assets/icons/userSimple.svg")
-B.UI=new A.bH("assets/icons/twitter.svg")
-B.UJ=new A.bH("assets/icons/private.svg")
-B.BL=new A.bH("assets/icons/leave.svg")
-B.UK=new A.bH("assets/icons/documentText.svg")
-B.oE=new A.bH("assets/icons/profile.svg")
-B.UL=new A.bH("assets/icons/upDone.svg")
-B.UM=new A.bH("assets/icons/toggleOffCircle.svg")
-B.UN=new A.bH("assets/icons/global.svg")
-B.UO=new A.bH("assets/icons/closeBlue.svg")
-B.UP=new A.bH("assets/icons/archive.svg")
-B.BM=new A.bH("assets/images/logo.svg")
-B.BN=new A.bH("assets/images/logo-facebook.svg")
-B.BO=new A.bH("assets/icons/up.svg")
-B.UQ=new A.bH("assets/icons/share.svg")
-B.BP=new A.bH("assets/icons/imageUpload.svg")
-B.UR=new A.bH("assets/icons/downDone.svg")
-B.j3=new A.bH("assets/icons/user.svg")
-B.US=new A.bH("assets/icons/addCircle.svg")
-B.UT=new A.bH("assets/icons/security.svg")
-B.UU=new A.bH("assets/icons/whatsApp.svg")
-B.oF=new A.bH("assets/icons/notification.svg")
-B.j4=new A.bH("assets/icons/commentOutline.svg")
-B.UV=new A.bH("assets/icons/meet.svg")
-B.UW=new A.bH("assets/icons/archiveDone.svg")
-B.UX=new A.bH("assets/icons/copy.svg")
-B.BQ=new A.bH("assets/icons/down.svg")
-B.UY=new A.bH("assets/icons/gold.svg")
-B.ds=new A.bH("assets/icons/closeOutline.svg")
-B.UZ=new A.bH("assets/images/logo-google.svg")
-B.BR=new A.bH("assets/icons/chat.svg")
-B.V_=new A.bH("assets/icons/comment.svg")
-B.BS=new A.bH("assets/icons/addUserOutline.svg")
-B.BT=new A.bH("assets/icons/Filters.svg")
-B.BU=new A.bH("assets/images/logo-linkedin.svg")
-B.BV=new A.bH("assets/icons/circles.svg")
-B.c8=new A.bH("assets/icons/clearText.svg")
-B.V0=new A.bH("assets/icons/recordCircle.svg")
-B.V1=new A.bH("assets/icons/username.svg")
-B.V2=new A.bH("assets/icons/addUser.svg")
+B.UA=new A.bH("pwa/assets/icons/delete.svg")
+B.BJ=new A.bH("pwa/assets/icons/like.svg")
+B.UB=new A.bH("pwa/assets/icons/tick.svg")
+B.UC=new A.bH("pwa/assets/images/commentEmpty.svg")
+B.UD=new A.bH("pwa/assets/icons/removeUser.svg")
+B.bv=new A.bH("pwa/assets/icons/Search.svg")
+B.UE=new A.bH("pwa/assets/icons/facebook.svg")
+B.BK=new A.bH("pwa/assets/icons/Close.svg")
+B.UF=new A.bH("pwa/assets/icons/userAddCircle.svg")
+B.UG=new A.bH("pwa/assets/icons/arrowUp.svg")
+B.UH=new A.bH("pwa/assets/icons/userSimple.svg")
+B.UI=new A.bH("pwa/assets/icons/twitter.svg")
+B.UJ=new A.bH("pwa/assets/icons/private.svg")
+B.BL=new A.bH("pwa/assets/icons/leave.svg")
+B.UK=new A.bH("pwa/assets/icons/documentText.svg")
+B.oE=new A.bH("pwa/assets/icons/profile.svg")
+B.UL=new A.bH("pwa/assets/icons/upDone.svg")
+B.UM=new A.bH("pwa/assets/icons/toggleOffCircle.svg")
+B.UN=new A.bH("pwa/assets/icons/global.svg")
+B.UO=new A.bH("pwa/assets/icons/closeBlue.svg")
+B.UP=new A.bH("pwa/assets/icons/archive.svg")
+B.BM=new A.bH("pwa/assets/images/logo.svg")
+B.BN=new A.bH("pwa/assets/images/logo-facebook.svg")
+B.BO=new A.bH("pwa/assets/icons/up.svg")
+B.UQ=new A.bH("pwa/assets/icons/share.svg")
+B.BP=new A.bH("pwa/assets/icons/imageUpload.svg")
+B.UR=new A.bH("pwa/assets/icons/downDone.svg")
+B.j3=new A.bH("pwa/assets/icons/user.svg")
+B.US=new A.bH("pwa/assets/icons/addCircle.svg")
+B.UT=new A.bH("pwa/assets/icons/security.svg")
+B.UU=new A.bH("pwa/assets/icons/whatsApp.svg")
+B.oF=new A.bH("pwa/assets/icons/notification.svg")
+B.j4=new A.bH("pwa/assets/icons/commentOutline.svg")
+B.UV=new A.bH("pwa/assets/icons/meet.svg")
+B.UW=new A.bH("pwa/assets/icons/archiveDone.svg")
+B.UX=new A.bH("pwa/assets/icons/copy.svg")
+B.BQ=new A.bH("pwa/assets/icons/down.svg")
+B.UY=new A.bH("pwa/assets/icons/gold.svg")
+B.ds=new A.bH("pwa/assets/icons/closeOutline.svg")
+B.UZ=new A.bH("pwa/assets/images/logo-google.svg")
+B.BR=new A.bH("pwa/assets/icons/chat.svg")
+B.V_=new A.bH("pwa/assets/icons/comment.svg")
+B.BS=new A.bH("pwa/assets/icons/addUserOutline.svg")
+B.BT=new A.bH("pwa/assets/icons/Filters.svg")
+B.BU=new A.bH("pwa/assets/images/logo-linkedin.svg")
+B.BV=new A.bH("pwa/assets/icons/circles.svg")
+B.c8=new A.bH("pwa/assets/icons/clearText.svg")
+B.V0=new A.bH("pwa/assets/icons/recordCircle.svg")
+B.V1=new A.bH("pwa/assets/icons/username.svg")
+B.V2=new A.bH("pwa/assets/icons/addUser.svg")
 B.e2=new A.e4(0,"unknown")
 B.BY=new A.vm(B.y,14,7)
 B.V9=new A.IW(null,null,null,null,null,null,null)
