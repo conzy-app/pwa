@@ -158,10 +158,10 @@ const RESOURCES = {
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  "main.dart.js",
-  "index.html",
-  "assets/AssetManifest.json",
-  "assets/FontManifest.json",
+  "pwa/main.dart.js",
+  "pwa/index.html",
+  "pwa/assets/AssetManifest.json",
+  "pwa/assets/FontManifest.json",
 ];
 // During install, the TEMP cache is populated with the application shell files.
 self.addEventListener("install", (event) => {
